@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://unlock-the-secrets-of-your-serger.com/sitemap.xml
